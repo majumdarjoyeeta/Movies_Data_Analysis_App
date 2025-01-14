@@ -25,12 +25,6 @@ This is a Streamlit-based application that allows users to explore and analyze I
 - Plotly
 
 ## Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
-   cd <project_folder>
 Install the required dependencies:
 
 bash
